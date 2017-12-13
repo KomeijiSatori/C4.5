@@ -1,0 +1,2 @@
+[{"attrs": {"outlook": "sunny", "temperature": "hot", "humidity": "high", "wind": "weak"}, "label": "cancel"},
+{"attrs": {"outlook": "rainy", "temperature": "middle", "humidity": "high", "wind": "strong"}, "label": "cancel"}]
